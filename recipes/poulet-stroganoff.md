@@ -4,7 +4,7 @@ title: "Poulet Stroganoff"
 date: 2026-06-18
 draft: false
 description: "Ein cremiges Stroganoff mit Poulet anstelle von Rindfleisch, aber genauso gut."
-image: "images/recipes/poulet_stroganoff.svg"
+image: "images/recipes/poulet-stroganoff.png"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Russisch", "Sauce"]
@@ -23,7 +23,7 @@ ingredients:
   - "Bratbutter"
   - "2 Knoblauchzehen, gehackt"
   - "1 Zwiebel, gehackt"
-  - "1-2 rote Peperoni, in feinen Streifen"
+  - "1-2 rote Pepperoni, in feinen Streifen"
   - "2 EL Tomatenpüree"
   - "2 TL Paprikapulver"
   - "Pfeffer"
@@ -46,7 +46,7 @@ Dieses Poulet Stroganoff ist einfach und schnell gekocht. Deswegen eignet es sic
 
 ## Tipps
 
-- Das Poulet genug früh auftauen.
+- Das Poulet früh genug auftauen.
 - Das Poulet nur leicht anbraten.
 
 ## Serviervorschläge
